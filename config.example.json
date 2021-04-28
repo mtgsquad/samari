@@ -1,0 +1,6 @@
+{
+	"prefix": "!",
+	"token": "token here",
+    	"activity": "!help - Samari",
+	"mongodb": "mongo url here"
+}
